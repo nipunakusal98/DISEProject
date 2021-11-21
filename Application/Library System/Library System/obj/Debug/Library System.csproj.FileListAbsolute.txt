@@ -1,0 +1,41 @@
+D:\Assignments\Programming\application\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Assignments\Programming\application\Library System\Library System\bin\Debug\Library System.exe
+D:\Assignments\Programming\application\Library System\Library System\bin\Debug\Library System.pdb
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library System.csprojResolveAssemblyReference.cache
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.frm_Book.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.Cache
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library System.exe
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library System.pdb
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.frmHome.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.frmAuthor.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.frmCategory.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.frmPublisher.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.Member.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.BookIssue.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.testing_purpose.resources
+D:\Assignments\Programming\application\Library System\Library System\obj\Debug\Library_System.Payments.resources
+D:\DiSE\Application\Library System\Library System\bin\Debug\Library System.exe.config
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library System.exe
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library System.pdb
+D:\DiSE\Application\Library System\Library System\bin\Debug\Library System.exe
+D:\DiSE\Application\Library System\Library System\bin\Debug\Library System.pdb
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library System.csprojResolveAssemblyReference.cache
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.frmAuthor.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.frm_Book.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.BookIssue.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.frmCategory.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.frmHome.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.Payments.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.frmPublisher.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.testing_purpose.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.Cache
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.welcome.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.Member_Home.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.MemberSearchBook.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.adminPasswordUpdate.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.memberPasswordUpdate.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.memberUpdatedetail.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.memberinfo.resources
+D:\DiSE\Application\Library System\Library System\obj\Debug\Library_System.admin_info.resources
